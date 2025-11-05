@@ -21,15 +21,40 @@ Additional sessions will be added to cover:
 - Decision-making in high-stakes situations
 - Self-care and resilience for leaders
 
-## Building the Book
+## Deployment
+
+This project is configured to automatically deploy to GitHub Pages using GitHub Actions.
+
+### Automatic Deployment
+
+The book automatically builds and deploys when you push to the `main` branch. The workflow:
+
+1. Checks out the repository
+2. Sets up Quarto
+3. Renders the book
+4. Deploys to GitHub Pages
+
+### Setting Up GitHub Pages
+
+To enable deployment:
+
+1. Go to your repository settings on GitHub
+2. Navigate to **Settings > Pages**
+3. Under "Build and deployment":
+   - Set **Source** to "GitHub Actions"
+4. Push changes to the `main` branch to trigger deployment
+
+The site will be available at: `https://<username>.github.io/<repository-name>/`
+
+### Local Development
 
 This project uses [Quarto](https://quarto.org/), an open-source scientific and technical publishing system.
 
-### Prerequisites
+#### Prerequisites
 
 - [Quarto](https://quarto.org/docs/get-started/) installed on your system
 
-### Building
+#### Building Locally
 
 ```bash
 # Preview the book (with live reload)
@@ -45,6 +70,9 @@ The rendered book will be in the `_book/` directory.
 
 ```
 outbreak_leadership/
+├── .github/
+│   └── workflows/
+│       └── publish.yml              # GitHub Actions deployment workflow
 ├── _quarto.yml                      # Project configuration
 ├── index.qmd                        # Welcome/introduction page
 ├── session-01-leadership-meaning.qmd # First session
