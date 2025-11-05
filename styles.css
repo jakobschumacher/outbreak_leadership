@@ -23,6 +23,18 @@ body {
   margin-top: 0.5rem;
 }
 
+/* Override title colors when in banner */
+.quarto-title-banner .quarto-title .title,
+.quarto-title-banner h1.title,
+.quarto-title-banner .title {
+  color: #FFFFFF !important;
+}
+
+.quarto-title-banner .quarto-title .subtitle,
+.quarto-title-banner p.subtitle {
+  color: #ECF0F1 !important;
+}
+
 /* Callout boxes styling */
 .callout {
   border-radius: 8px;
