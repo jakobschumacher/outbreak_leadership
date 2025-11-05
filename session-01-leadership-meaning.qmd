@@ -1,0 +1,155 @@
+# What Does Leadership Mean to Us?
+
+## Introduction
+
+Before we can develop our leadership skills, we must first understand what leadership actually means. This seemingly simple question often reveals complex and diverse answers. In the context of outbreak response, where stakes are high and uncertainty is constant, understanding your personal definition of leadership becomes crucial.
+
+## The Many Faces of Leadership
+
+When we think about leadership, different images and ideas come to mind:
+
+- **The Decision-Maker**: Someone who takes charge and makes tough calls
+- **The Servant**: Someone who supports and empowers their team
+- **The Visionary**: Someone who sees the path forward when others cannot
+- **The Coordinator**: Someone who brings people and resources together
+- **The Communicator**: Someone who translates complex information for different audiences
+- **The Stabilizer**: Someone who provides calm in the storm
+
+Each of these perspectives is valid. Each has its place in outbreak response.
+
+## Leadership Like a Wave
+
+![The Great Wave - A metaphor for leadership in times of uncertainty](images/japanese-wave.jpg){fig-alt="The Great Wave off Kanagawa, representing the powerful and unpredictable forces leaders must navigate during outbreaks"}
+
+Consider the famous Japanese wave—powerful, dynamic, and constantly changing. Leadership during an outbreak shares these qualities:
+
+- **Powerful**: Your decisions and actions have significant impact
+- **Dynamic**: The situation is never static; leadership must adapt
+- **Part of Something Larger**: Just as the wave is part of the ocean, your leadership exists within a larger system
+- **Beautiful and Dangerous**: Leadership can inspire and create positive change, but also carries risks
+- **Temporary**: Each wave rises and falls; each crisis phase requires different leadership approaches
+
+The wave also reminds us that we don't control everything. A leader cannot control the ocean, but they can learn to navigate its waters.
+
+## Reflective Exercise: Your Leadership Story
+
+Take a moment to reflect on these questions:
+
+::: {.callout-note}
+## Reflection Questions
+
+1. **Think of a time when you witnessed excellent leadership during a crisis or challenging situation.**
+   - What did that person do?
+   - How did they make you feel?
+   - What made their leadership effective?
+
+2. **Think of a time when you had to lead in a difficult situation.**
+   - What approach did you take?
+   - What felt natural to you?
+   - What was challenging?
+
+3. **Complete this sentence:** "Leadership means..."
+   - Write your immediate response
+   - Don't overthink it—what comes to mind first?
+:::
+
+## Diverse Perspectives on Leadership
+
+In a group setting, if we were to share our reflections, we would quickly discover something important: **no two answers are exactly the same**.
+
+Consider these authentic perspectives from outbreak responders:
+
+> "Leadership means making sure everyone on my team gets home safely at the end of each day."
+>
+> — *Field Epidemiologist*
+
+> "Leadership is about listening more than talking, especially when you don't have all the answers."
+>
+> — *Incident Commander*
+
+> "To me, leadership means creating space for others to do their best work."
+>
+> — *Response Coordinator*
+
+> "Leadership is the courage to make a decision when the data is incomplete and the stakes are high."
+>
+> — *Public Health Director*
+
+> "Leadership means being the person who stays calm when everyone else is panicking."
+>
+> — *Emergency Operations Manager*
+
+Each of these definitions is shaped by:
+
+- **Personal values**: What matters most to you?
+- **Past experiences**: What have you learned from previous challenges?
+- **Cultural background**: How does your culture view authority and collaboration?
+- **Professional role**: What does your position require of you?
+- **Current context**: What does this specific situation demand?
+
+## The Power of Personal Definition
+
+You might be wondering: "If leadership means different things to different people, how can we develop it?"
+
+This is precisely the point. **Effective leadership in outbreak response isn't about fitting into a single mold—it's about understanding your own strengths, values, and approach, while remaining flexible enough to adapt to what each situation requires.**
+
+### Why Your Personal Definition Matters
+
+1. **Authenticity**: You lead best when you lead from your genuine self
+2. **Self-awareness**: Understanding your definition helps you recognize your strengths and growth areas
+3. **Flexibility**: Knowing your default approach helps you consciously adapt when needed
+4. **Confidence**: Clarity about your leadership philosophy provides grounding during chaos
+5. **Communication**: Articulating your leadership approach helps teams understand what to expect from you
+
+## The Paradox of Leadership
+
+Here's an important truth about leadership in outbreak response:
+
+::: {.callout-important}
+## The Leadership Paradox
+
+Leadership must be both **consistent and adaptable**.
+
+You need a core understanding of what leadership means to you (consistency), while simultaneously being willing to adjust your approach based on the situation, your team, and the evolving crisis (adaptability).
+:::
+
+Think again of the wave: each wave has a fundamental nature—water responding to forces—yet no two waves are identical.
+
+## Moving Forward
+
+As we continue through these sessions, you'll develop specific skills and approaches. But they will all build on this foundation: **understanding what leadership means to you**.
+
+This isn't a fixed definition. Like the wave, it will evolve with experience. What leadership meant to you at the beginning of your first outbreak response may be different from what it means after years of experience. Both definitions are valid for their time.
+
+## Conclusion: Leadership Is Personal
+
+We began this session by asking, "What does leadership mean to us?" We explored various perspectives, reflected on our own experiences, and considered how context shapes our understanding.
+
+**The key insight**: Leadership means something different to each of us—and that's not a problem to solve, but a strength to embrace.
+
+Your unique perspective on leadership, informed by your values, experiences, and context, is valuable. The goal is not to standardize leadership, but to develop your particular leadership capacity while learning from the diverse approaches of others.
+
+As you move forward, carry these questions with you:
+- What does leadership mean to me right now?
+- How does my definition serve me in this situation?
+- When might I need to expand or adapt my understanding?
+- What can I learn from others whose definition differs from mine?
+
+In the next session, we'll explore how to apply these personal definitions of leadership to the specific challenges of outbreak response.
+
+## Action Items
+
+Before the next session:
+
+1. **Write down your personal definition of leadership** (2-3 sentences)
+2. **Identify one strength** your definition reveals about your leadership approach
+3. **Identify one area for growth** that might not be captured in your current definition
+4. **Ask three colleagues or team members** what leadership means to them—notice the diversity of responses
+
+---
+
+::: {.callout-tip}
+## Remember
+
+Like the wave, leadership is both powerful and ever-changing. Embrace your unique approach while remaining open to growth and adaptation.
+:::

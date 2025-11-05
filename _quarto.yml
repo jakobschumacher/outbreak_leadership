@@ -1,0 +1,47 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Outbreak Response Leadership"
+  subtitle: "Leading in times of uncertainty"
+  author: ""
+  date: today
+  chapters:
+    - index.qmd
+    - session-01-leadership-meaning.qmd
+  page-navigation: true
+
+  # SEO and metadata
+  description: "A comprehensive guide to outbreak response leadership, exploring what it means to lead effectively during times of uncertainty and crisis."
+  keywords:
+    - outbreak response
+    - leadership
+    - crisis management
+    - public health leadership
+    - emergency response
+    - uncertainty management
+  site-url: ""
+  repo-url: "https://github.com/jakobschumacher/outbreak_leadership"
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-fold: false
+    code-tools: false
+
+    # SEO optimization
+    html-math-method: katex
+    anchor-sections: true
+    smooth-scroll: true
+
+    # Open Graph and Twitter Card metadata for social sharing
+    page-layout: full
+    title-block-banner: true
+    title-block-banner-color: "#2C3E50"
