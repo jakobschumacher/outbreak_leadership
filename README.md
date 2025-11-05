@@ -13,6 +13,9 @@ This resource explores the challenges of leading during outbreaks and emergencie
 ### Session 1: What Does Leadership Mean to Us?
 The foundation session explores different perspectives on leadership and helps participants develop their personal leadership philosophy. Key insight: leadership means something different to each of us, and that diversity is a strength.
 
+### Session 2: Adaptive Challenges vs. Technical Problems
+Based on Ronald Heifetz's leadership framework, this session explores the critical distinction between technical problems (which can be solved with existing expertise) and adaptive challenges (which require people to learn and change). Includes real-world outbreak examples like Ebola burial practices, vaccine confidence, and multi-jurisdictional contact tracing.
+
 ### Future Sessions
 Additional sessions will be added to cover:
 - Leading with incomplete information
@@ -72,14 +75,15 @@ The rendered book will be in the `_book/` directory.
 outbreak_leadership/
 ├── .github/
 │   └── workflows/
-│       └── publish.yml              # GitHub Actions deployment workflow
-├── _quarto.yml                      # Project configuration
-├── index.qmd                        # Welcome/introduction page
-├── session-01-leadership-meaning.qmd # First session
-├── styles.css                       # Custom styling
-├── images/                          # Image assets
-│   └── README.md                    # Image requirements
-└── README.md                        # This file
+│       └── publish.yml                    # GitHub Actions deployment workflow
+├── _quarto.yml                            # Project configuration
+├── index.qmd                              # Welcome/introduction page
+├── session-01-leadership-meaning.qmd      # Session 1: What does leadership mean
+├── session-02-adaptive-challenges.qmd     # Session 2: Adaptive vs technical
+├── styles.css                             # Custom styling
+├── images/                                # Image assets
+│   └── README.md                          # Image requirements
+└── README.md                              # This file
 ```
 
 ## Images
