@@ -16,10 +16,12 @@ The foundation session explores different perspectives on leadership and helps p
 ### Session 2: Adaptive Challenges vs. Technical Problems
 Based on Ronald Heifetz's leadership framework, this session explores the critical distinction between technical problems (which can be solved with existing expertise) and adaptive challenges (which require people to learn and change). Includes real-world outbreak examples like Ebola burial practices, vaccine confidence, and multi-jurisdictional contact tracing.
 
+### Session 3: Inclusion, Belonging, and Psychological Safety
+Drawing on Amy Edmondson's research on fearless organizations, this session explores the three-level framework: diversity is a fact, inclusion is a behavior, and belonging is the emotional outcome. Emphasizes psychological safety as essential for outbreak response teams. Includes specific leader behaviors to build psychological safety, case studies comparing high and low psychological safety teams, and practical strategies for creating inclusive environments where everyone can contribute their best work.
+
 ### Future Sessions
 Additional sessions will be added to cover:
 - Leading with incomplete information
-- Building and maintaining team cohesion under stress
 - Communication strategies during crises
 - Decision-making in high-stakes situations
 - Self-care and resilience for leaders
@@ -80,6 +82,7 @@ outbreak_leadership/
 ├── index.qmd                              # Welcome/introduction page
 ├── session-01-leadership-meaning.qmd      # Session 1: What does leadership mean
 ├── session-02-adaptive-challenges.qmd     # Session 2: Adaptive vs technical
+├── session-03-inclusion-belonging.qmd     # Session 3: Inclusion and psychological safety
 ├── styles.css                             # Custom styling
 ├── images/                                # Image assets
 │   └── README.md                          # Image requirements

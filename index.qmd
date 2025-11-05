@@ -43,6 +43,10 @@ Understanding what leadership means—to you, to your team, and in the context o
 
 Based on Ronald Heifetz's leadership framework, this session explores the critical distinction between technical problems (which can be solved with existing expertise) and adaptive challenges (which require people to learn and change). Understanding this difference transforms how you lead during outbreaks, where the hardest challenges are often adaptive, not technical.
 
+**Session 3: Inclusion, Belonging, and Psychological Safety**
+
+Drawing on Amy Edmondson's research on fearless organizations, this session explores the three-level framework: diversity is a fact, inclusion is a behavior, and belonging is the emotional outcome. The session emphasizes psychological safety—the belief that you can speak up without fear—as essential for outbreak response teams working under pressure with incomplete information. Learn specific leader behaviors that build psychological safety and enable diverse teams to contribute their best work.
+
 ### About Leading in Uncertainty
 
 Outbreak response presents unique leadership challenges:

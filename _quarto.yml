@@ -11,6 +11,7 @@ book:
     - index.qmd
     - session-01-leadership-meaning.qmd
     - session-02-adaptive-challenges.qmd
+    - session-03-inclusion-belonging.qmd
   page-navigation: true
 
   # SEO and metadata
