@@ -33,6 +33,16 @@ Each session is designed to be interactive and reflective. You'll encounter:
 - **Group Discussions**: Opportunities to learn from others' perspectives
 - **Action Items**: Concrete steps you can take to develop your leadership
 
+### Sessions Overview
+
+**Session 1: What Does Leadership Mean to Us?**
+
+Understanding what leadership means—to you, to your team, and in the context of outbreak response—is the foundation for everything that follows. This session explores diverse perspectives and helps you develop your personal leadership definition. Key insight: leadership means something different to each of us, and that diversity is a strength.
+
+**Session 2: Adaptive Challenges vs. Technical Problems**
+
+Based on Ronald Heifetz's leadership framework, this session explores the critical distinction between technical problems (which can be solved with existing expertise) and adaptive challenges (which require people to learn and change). Understanding this difference transforms how you lead during outbreaks, where the hardest challenges are often adaptive, not technical.
+
 ### About Leading in Uncertainty
 
 Outbreak response presents unique leadership challenges:

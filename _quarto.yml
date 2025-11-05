@@ -10,6 +10,7 @@ book:
   chapters:
     - index.qmd
     - session-01-leadership-meaning.qmd
+    - session-02-adaptive-challenges.qmd
   page-navigation: true
 
   # SEO and metadata
