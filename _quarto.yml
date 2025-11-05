@@ -14,13 +14,7 @@ book:
 
   # SEO and metadata
   description: "A comprehensive guide to outbreak response leadership, exploring what it means to lead effectively during times of uncertainty and crisis."
-  keywords:
-    - outbreak response
-    - leadership
-    - crisis management
-    - public health leadership
-    - emergency response
-    - uncertainty management
+  keyword: "outbreak response, leadership, crisis management, public health leadership, emergency response, uncertainty management"
   site-url: ""
   repo-url: "https://github.com/jakobschumacher/outbreak_leadership"
 
