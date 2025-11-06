@@ -454,6 +454,323 @@ The team realizes they need a sequenced approach:
 
 Each influence style has its moment. The team's diversity becomes a strength when they understand how to use it.
 
+## Part 2: Social Identity Mapping
+
+Beyond understanding how we influence others, person-centered leadership requires understanding **who we are**—and who the people we lead understand themselves to be.
+
+### Understanding Social Identity
+
+Social identity theory recognizes that each person's sense of self is shaped by multiple identities. These identities influence:
+- How we see the world
+- What we value
+- How we relate to others
+- How we show up in leadership situations
+- What threatens us and what energizes us
+
+In outbreak response, you work with people whose identities may be very different from your own. A national epidemiologist and a village health worker may have overlapping professional identities but very different cultural, geographic, and organizational identities. Understanding these identities—including your own—is essential for effective person-centered leadership.
+
+### The Three Layers of Identity
+
+Social identity mapping recognizes three layers of identity:
+
+#### 1. Core Identity
+
+**Core identity** comprises the fundamental aspects of who you are—the most central elements of your sense of self.
+
+These are the identities that feel most essential, most non-negotiable. When core identities are threatened or disrespected, people experience this as an attack on their fundamental being.
+
+**Examples**:
+- For some people, their religious or spiritual identity is core
+- For others, their identity as a parent or caregiver is central
+- For some, their professional identity (scientist, healer, leader) is fundamental
+- For others, their cultural or ethnic identity is at the core
+
+**In outbreak response**:
+
+When you ask people to change behaviors that are tied to core identity, you're asking them to do something profoundly difficult. For example:
+- Asking someone to change burial practices when their core identity is tied to honoring ancestors
+- Asking a clinician to follow a protocol that conflicts with their core identity as a healer who uses their judgment
+- Asking community leaders to defer to external experts when their core identity is as protectors of their community
+
+**Leadership implication**: Recognize when you're bumping up against core identity. You cannot ignore or steamroll core identity. You must work with it, honor it, and help people find ways to express core identity while adapting to new realities.
+
+#### 2. Given Identities
+
+**Given identities** are assigned to you by society, circumstance, or birth. You didn't choose them, but they profoundly shape how you experience the world and how others respond to you.
+
+**Examples of given identities**:
+- **Race and ethnicity**: How society categorizes you based on physical appearance or ancestry
+- **Nationality**: Where you were born or hold citizenship
+- **Age and generation**: When you were born and what life experiences that generation shares
+- **Gender** (for some people; for others it's more complex)
+- **Family background**: The socioeconomic status, culture, and experiences you were born into
+- **Ability/disability**: Physical, cognitive, or mental health conditions you were born with or acquired
+- **First language**: The language(s) you learned first
+
+**Why given identities matter**:
+
+Given identities come with:
+- **Different experiences**: A person who has experienced discrimination based on a given identity sees the world differently than someone who hasn't
+- **Different access to power**: Some given identities grant privilege and access; others create barriers
+- **Different levels of trust**: People may trust or distrust you based on given identities before you've said a word
+
+**In outbreak response**:
+
+Given identities create dynamics that affect leadership:
+- A young female epidemiologist may be dismissed by older male community leaders, regardless of her expertise
+- An international responder may be distrusted based on national identity or historical context
+- A person from an affected community may have insights that an outsider misses—and may also have blind spots that an outsider sees
+
+**Example**:
+
+During an Ebola response, international responders (given identity: foreign nationality, often race) were initially distrusted in some communities because of historical experiences with colonialism and exploitation. Local responders (given identity: from the affected community) were trusted more readily but sometimes lacked technical resources. Effective leadership recognized these dynamics and deliberately partnered locals and internationals in ways that leveraged the trust of locals and the resources of internationals.
+
+**Leadership implication**:
+- Recognize your own given identities and the privilege or barriers they create
+- Don't assume your experience is universal
+- Be aware that given identities affect how your leadership is received
+- Build teams that include diverse given identities to expand perspective and reach
+
+#### 3. Chosen Identities
+
+**Chosen identities** are aspects of yourself that you have selected, developed, or joined. While circumstance may have influenced these choices, you had agency in adopting them.
+
+**Examples of chosen identities**:
+- **Professional identity**: Epidemiologist, nurse, social worker, journalist
+- **Organizational affiliation**: WHO, Ministry of Health, Médecins Sans Frontières, local NGO
+- **Political or ideological alignment**: How you identify politically or philosophically
+- **Religious or spiritual practice** (when chosen rather than inherited)
+- **Hobbies and interests**: Runner, musician, activist
+- **Roles you've taken on**: Parent (if you chose to become one), volunteer, mentor
+- **Educational background**: The degrees and training you pursued
+
+**Why chosen identities matter**:
+
+Chosen identities represent:
+- **Commitments** you've made
+- **Values** you've aligned with
+- **Communities** you've joined
+- **Expertise** you've developed
+
+Because they're chosen, they often feel particularly meaningful. People are proud of chosen identities—but can also feel defensive when they're challenged.
+
+**In outbreak response**:
+
+Chosen professional identities shape how people approach problems:
+- An epidemiologist's chosen identity may emphasize data-driven decision-making
+- A community organizer's chosen identity may emphasize participation and empowerment
+- A physician's chosen identity may emphasize individual patient care
+- A public health official's chosen identity may emphasize population-level impact
+
+These different professional identities can create productive tension—or unproductive conflict—depending on whether differences are recognized and navigated skillfully.
+
+**Example**:
+
+In a response team, tension arose between:
+- **WHO staff** (organizational identity: global, technically excellent, protocol-driven)
+- **Local NGO staff** (organizational identity: community-rooted, relationally focused, flexible)
+
+Each group saw their organizational identity as superior. WHO staff thought local NGO was too loose and unprofessional. Local NGO thought WHO was too rigid and disconnected from reality.
+
+The breakthrough came when the team mapped their organizational identities explicitly and recognized: "We've chosen different organizational homes because we value different things. WHO's protocols provide consistency. The local NGO's flexibility provides responsiveness. We need both. How can we stop competing and start complementing?"
+
+**Leadership implication**:
+- Recognize that chosen identities carry commitments and values
+- Don't dismiss chosen identities ("You're being too academic," "You're too focused on process")
+- Help people see how different chosen identities complement each other
+- Create space for people to honor their chosen professional identities while also adapting
+
+### Mapping Your Own Social Identities
+
+To lead in a person-centered way, start by understanding your own identities.
+
+::: {.callout-note}
+## Exercise: Your Social Identity Map
+
+**Core Identity**:
+- What 2-3 aspects of your identity feel most fundamental to who you are?
+- If these were threatened, you would feel threatened at your core
+
+**Given Identities**:
+- What identities were assigned to you by birth, society, or circumstance?
+- Race/ethnicity:
+- Nationality:
+- Age/generation:
+- Gender:
+- Family background:
+- Other:
+
+**Chosen Identities**:
+- What identities have you selected or developed?
+- Professional identity:
+- Organizational affiliation:
+- Educational background:
+- Roles you've chosen:
+- Other:
+
+**Reflection**:
+- Which of your given identities have created privilege or access for you?
+- Which have created barriers?
+- How do your chosen identities align with your core identity?
+- Are there tensions between different identities you hold?
+:::
+
+### How Identities Show Up in Leadership
+
+#### Identity and Authority
+
+Your identities affect whether people grant you authority:
+- **Some identities grant automatic authority** in certain contexts (e.g., medical degree in health contexts, age in some cultures)
+- **Some identities require you to earn authority** that others receive automatically
+- **Some identity combinations create contradictions** (e.g., young + expert, female + authoritative in some contexts)
+
+**Question for reflection**: Which of your identities make leadership easier? Which make it harder? How have you learned to navigate this?
+
+#### Identity and Perspective
+
+Your identities shape what you see and what you miss:
+- **Given identities shape life experience**: A person who has faced discrimination sees power dynamics that others miss
+- **Chosen professional identities shape problem framing**: An epidemiologist and a social worker see different aspects of the same outbreak
+- **Core identities shape what you consider non-negotiable**: What feels obvious to you may be your core identity speaking
+
+**Leadership implication**: Recognize that your perspective is shaped by your identities—it's not the only perspective. Build teams with different identity combinations to expand what the team can see.
+
+#### Identity Threat in Outbreak Response
+
+Outbreak response frequently creates **identity threats**—situations where people's identities are challenged or disrespected:
+
+**Examples**:
+- **Core identity threat**: "Your traditional practices are dangerous" (implies: your culture is bad)
+- **Given identity threat**: Speaking to local leaders in a patronizing tone because of age, gender, or nationality
+- **Chosen identity threat**: "Your professional judgment doesn't matter; just follow the protocol"
+
+When identity is threatened, people become defensive, resistant, or disengaged—even if the technical content of what you're saying is correct.
+
+**Alternative approach: Identity-honoring leadership**:
+- **Honor core identity**: "Your community's burial practices show deep respect for the deceased. How can we preserve that respect while also reducing transmission risk?"
+- **Honor given identity**: "As someone from this community, you understand dynamics we're missing. What should we know?"
+- **Honor chosen identity**: "You're an experienced clinician. Given that expertise, what do you think about this protocol? How could we adapt it to work in your setting?"
+
+### Using Social Identity Mapping with Your Team
+
+#### Exercise: Team Identity Mapping
+
+Facilitate a conversation where team members share:
+1. **One given identity** that shapes how they see the outbreak response
+2. **One chosen identity** (usually professional) that influences their approach
+3. **How these identities affect** their perspective and priorities
+
+**Example from a real team**:
+
+**Maria** (Field Epidemiologist):
+- **Given identity**: Grew up in poverty; first in family to attend university
+- **How it shapes her**: "I'm very aware of barriers to accessing health services. When we say 'people should come to vaccination sites,' I think about all the reasons they can't—transport costs, lost wages, childcare. I push the team to bring services to communities."
+
+**Dr. Ahmed** (Incident Commander):
+- **Chosen identity**: Military background before public health
+- **How it shapes him**: "My military training makes me focus on clear command structures and rapid execution. I value speed and decisiveness. Sometimes the team tells me I need to slow down and listen more."
+
+**Lin** (Community Liaison):
+- **Core identity**: Buddhist practice and belief in interconnection
+- **How it shapes her**: "I start from the assumption that we're all connected. The community isn't 'them' and we're not 'us.' We're all in this together. That shapes how I build relationships."
+
+**Impact**: After sharing, the team understood each other's perspectives better. They stopped seeing differences as problems and started seeing them as complementary strengths.
+
+#### Benefits of Team Identity Mapping
+
+1. **Reduces unproductive conflict**: "We're not in conflict because someone is wrong—we're seeing things differently because of our identities."
+2. **Builds empathy**: Understanding what shaped someone helps you understand them
+3. **Leverages diversity**: Different identities mean different perspectives—this becomes a strength when recognized
+4. **Creates psychological safety**: Sharing identities builds connection and trust
+
+### Practical Applications for Outbreak Response
+
+#### 1. Before Community Engagement
+
+Ask yourself:
+- **What given identities do I carry** that affect how the community will perceive me?
+- **How can I acknowledge these** in a way that builds trust rather than creates distance?
+- **Whose identities on my team** might help bridge gaps or create connection?
+
+**Example**:
+An international team partnered with local community health workers, explicitly introducing them as "colleagues from this community who are guiding us." This honored the local team members' given identity (from the community) and their chosen identity (health professional).
+
+#### 2. In Team Conflicts
+
+When teams are in conflict, ask:
+- **Is this an identity clash?** Are different identities leading to different values or priorities?
+- **Can we name the identity dynamic?** "I think we're seeing this differently partly because of our different professional backgrounds."
+- **How can both identities be honored?** "We need both the epidemiological rigor you bring and the community relationships she brings."
+
+#### 3. In Your Own Self-Awareness
+
+Regularly reflect:
+- **Which of my identities is most activated right now?** (e.g., "I'm really in 'expert' mode right now—is that what this situation needs?")
+- **Is my identity creating blind spots?** (e.g., "My identity as an internationaldevelopment professional makes me focus on what's broken—am I missing local strengths?")
+- **Am I honoring or threatening others' identities?** (e.g., "Did I just dismiss her input because my professional identity makes me overvalue technical expertise?")
+
+### Common Pitfalls and How to Avoid Them
+
+#### Pitfall 1: Assuming Your Identity Is Neutral
+
+**Problem**: Thinking "I'm just being objective" when actually your identities are shaping your perspective.
+
+**Reality**: Everyone has identities. Claiming neutrality often means you're in a privileged identity that feels invisible to you.
+
+**Solution**: Make your identities visible to yourself. Ask: "How might my [given/chosen] identity be shaping how I see this?"
+
+#### Pitfall 2: Treating Identity as Fixed
+
+**Problem**: Putting people in identity boxes and assuming that determines everything about them.
+
+**Reality**: People hold multiple identities. The same person can draw on different aspects of identity in different situations.
+
+**Solution**: Recognize identity as complex and dynamic. Ask people how they identify rather than assuming.
+
+#### Pitfall 3: Ignoring Given Identity Dynamics
+
+**Problem**: Pretending that power dynamics related to race, gender, nationality, etc., don't exist in your team.
+
+**Reality**: These dynamics exist whether you acknowledge them or not. Ignoring them doesn't make them go away.
+
+**Solution**: Create space to name dynamics when they affect the work. "I'm aware that as the only international staff member in this meeting, my opinion might carry weight it shouldn't. Please push back if you disagree."
+
+#### Pitfall 4: Centering Your Own Identity
+
+**Problem**: Leading as if everyone shares your identity or should aspire to it.
+
+**Reality**: Different identities bring different strengths. Leadership isn't about everyone becoming like you.
+
+**Solution**: Person-centered leading means adapting to others' identities, not expecting them to adapt to yours.
+
+## Integrating Parts 1 and 2: Influence Styles and Social Identities
+
+Understanding both influence styles (Part 1) and social identities (Part 2) gives you a richer picture of person-centered leading:
+
+**Influence styles** help you understand **how** people try to affect others.
+
+**Social identities** help you understand **who** people are and what shapes their perspective.
+
+Together, they create powerful insights:
+- A person's chosen professional identity might shape their influence style (e.g., scientists may favor rationalizing)
+- Core identity might affect which influence styles feel authentic
+- Given identities might affect whose influence is heard (e.g., asserting might work differently depending on gender in some contexts)
+
+**Example**:
+
+**Dr. Fatima** has:
+- **Given identity**: Woman, from the affected country, younger generation
+- **Chosen identity**: Epidemiologist trained in Europe, WHO staff member
+- **Core identity**: Muslim, committed to serving her community
+- **Natural influence style**: Rationalizing (data-driven)
+
+Understanding these layers helps her:
+- Recognize when to lead with her local identity vs. her WHO identity depending on audience
+- Understand why her rationalizing style sometimes lands differently than when male colleagues use the same style
+- Connect her data-driven approach to her core value of service: "I use evidence because my faith calls me to serve well, and that means using the best information available"
+
+This self-awareness allows her to navigate complex situations skillfully rather than feeling confused about why the same approach works sometimes and not others.
+
 ## Connection to Previous Sessions
 
 Person-centered leading builds directly on previous sessions:
@@ -479,7 +796,9 @@ Person-centered leading builds directly on previous sessions:
 
 ## Looking Ahead
 
-This session introduced the first framework for understanding persons in leadership: Influence Style Indicators.
+This session introduced two frameworks for understanding persons in leadership:
+- **Part 1: Influence Style Indicators** - How people try to influence others
+- **Part 2: Social Identity Mapping** - Who people are (core, given, and chosen identities)
 
 **Future sections in person-centered leading will explore**:
 - Other trait frameworks that help you understand yourself and others
@@ -487,14 +806,16 @@ This session introduced the first framework for understanding persons in leaders
 - How to adapt your leadership to different personality types
 - How to build self-awareness as an ongoing leadership practice
 
-Person-centered leading is a deep topic. We've only begun. But understanding influence styles gives you a practical starting point for bringing this approach to your outbreak response leadership.
+Person-centered leading is a deep topic. We've only begun. But understanding influence styles and social identities gives you a practical starting point for bringing this approach to your outbreak response leadership.
 
 ## Action Items
 
 Before the next session:
 
+### Part 1: Influence Styles
+
 1. **Identify your primary influence style**:
-   - Which of the four styles feels most natural to you?
+   - Which of the four styles (rationalizing, asserting, negotiating, inspiring) feels most natural to you?
    - Ask a trusted colleague: "When I'm trying to influence you, what approach do I typically use?"
 
 2. **Observe influence styles in action**:
@@ -506,35 +827,60 @@ Before the next session:
    - Consciously try a different influence approach
    - Reflect: What happened? What did you learn?
 
-4. **Analyze an influence challenge**:
-   - Think of someone you need to influence but haven't been successful with
-   - What influence style have you been using?
-   - What style might they value more?
-   - How could you adapt your approach?
+### Part 2: Social Identity
 
-5. **Consider your team's influence diversity**:
-   - What influence styles are represented on your team?
-   - What styles might be missing?
-   - How could you leverage the diversity that exists?
+4. **Map your own identities**:
+   - Complete the Social Identity Mapping exercise (core, given, chosen)
+   - Identify which identities are most active in your leadership role
+   - Reflect: How do these identities shape your perspective?
+
+5. **Recognize an identity dynamic**:
+   - Think of a recent conflict or miscommunication in your work
+   - Could different identities (core, given, or chosen) have contributed to the disconnect?
+   - How might naming the identity dynamic have helped?
+
+6. **Practice identity-honoring communication**:
+   - In one interaction this week, consciously honor someone's identity
+   - Examples: "As someone from this community..." / "Given your expertise as a clinician..." / "I know your faith is important to you..."
+   - Notice how it affects the conversation
+
+### Integration
+
+7. **Connect influence style and identity**:
+   - How might your identities shape your natural influence style?
+   - Are there situations where your identity affects whether your influence style is effective?
+   - How can understanding both frameworks help you lead more skillfully?
 
 ---
 
 ::: {.callout-tip}
 ## Remember
 
-Leadership happens through persons—each with unique traits and influence styles. Understanding these patterns in yourself and others isn't about putting people in boxes. It's about recognizing the beautiful diversity of how people think, communicate, and lead—and learning to work with that diversity rather than against it.
+Leadership happens through persons—each with unique traits, influence styles, and identities.
 
-Your effectiveness as a leader grows when you develop the flexibility to influence in multiple ways, depending on what the person and situation require.
+**Influence styles** show us how people try to affect others. Understanding your natural style and developing flexibility helps you adapt to different situations and people.
+
+**Social identities** (core, given, and chosen) shape who people are, what they value, and how they see the world. Recognizing identities—yours and others'—helps you lead with empathy and effectiveness.
+
+Together, these frameworks aren't about putting people in boxes. They're about recognizing the beautiful diversity of how people think, communicate, and lead—and learning to work with that diversity rather than against it.
+
+Your effectiveness as a leader grows when you develop the flexibility to influence in multiple ways while honoring the diverse identities of the people you work with.
 :::
 
 ## Further Reading
 
-To explore influence styles and person-centered leadership more deeply:
+To explore these frameworks and person-centered leadership more deeply:
 
 **On Influence Styles**:
 - Discovery Learning International. *Influence Style Indicator* assessment and resources
 - Cialdini, R. (2006). *Influence: The Psychology of Persuasion*
 
+**On Social Identity**:
+- Tajfel, H., & Turner, J. C. (1979). "An Integrative Theory of Intergroup Conflict." In W. G. Austin & S. Worchel (Eds.), *The Social Psychology of Intergroup Relations*
+- Tatum, B. D. (2017). *"Why Are All the Black Kids Sitting Together in the Cafeteria?": And Other Conversations About Race* (revised edition)
+- Jones, C. P., & Jones, C. Y. (2018). "The Promise and Peril of 'Bringing Your Whole Self to Work'." *Harvard Business Review*
+
 **On Understanding Persons in Leadership**:
 - Goleman, D. (1995). *Emotional Intelligence*
 - Buckingham, M., & Clifton, D. (2001). *Now, Discover Your Strengths*
+- hooks, b. (2003). *Teaching Community: A Pedagogy of Hope*
