@@ -19,6 +19,9 @@ Based on Ronald Heifetz's leadership framework, this session explores the critic
 ### Session 3: Inclusion, Belonging, and Psychological Safety
 Drawing on Amy Edmondson's research on fearless organizations, this session explores the three-level framework: diversity is a fact, inclusion is a behavior, and belonging is the emotional outcome. Emphasizes psychological safety as essential for outbreak response teams. Includes specific leader behaviors to build psychological safety, case studies comparing high and low psychological safety teams, and practical strategies for creating inclusive environments where everyone can contribute their best work.
 
+### Session 4: Person-Centered Leading
+Introduces the theory that persons act with unique traits, and understanding these traits improves leadership. Part 1 covers Influence Style Indicators (Discovery Learning International)—a framework identifying four primary influence styles: rationalizing (data/logic), asserting (decisiveness), negotiating (common ground), and inspiring (vision/values). Includes detailed descriptions of each style, practical applications for outbreak response, case studies of style clashes and resolutions, and guidance on building influence flexibility and complementary teams. Additional parts on person-centered leading will follow.
+
 ### Future Sessions
 Additional sessions will be added to cover:
 - Leading with incomplete information
@@ -83,6 +86,7 @@ outbreak_leadership/
 ├── session-01-leadership-meaning.qmd      # Session 1: What does leadership mean
 ├── session-02-adaptive-challenges.qmd     # Session 2: Adaptive vs technical
 ├── session-03-inclusion-belonging.qmd     # Session 3: Inclusion and psychological safety
+├── session-04-person-centered-leading.qmd # Session 4: Person-centered leading
 ├── styles.css                             # Custom styling
 ├── images/                                # Image assets
 │   └── README.md                          # Image requirements

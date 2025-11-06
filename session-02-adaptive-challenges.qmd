@@ -10,6 +10,8 @@ This framework, developed by leadership expert Ronald Heifetz, helps explain why
 
 Understanding this distinction can transform how you lead.
 
+![Mountain climbers helping each other - representing how adaptive challenges require collaboration and mutual support, not just technical expertise](images/adaptive-challenges-teamwork.jpg){fig-alt="Mountain climbers working together, one helping pull another up a steep incline, symbolizing how adaptive challenges require teamwork, trust, and collective effort rather than individual technical solutions"}
+
 ## The Core Distinction
 
 ### Technical Problems

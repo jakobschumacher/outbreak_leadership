@@ -15,6 +15,8 @@ And crucially, all three depend on **psychological safety**—the belief that yo
 
 As organizational psychologist Amy Edmondson has demonstrated, psychological safety isn't just about being nice. It's about creating the conditions for learning, innovation, and truth-telling in high-stakes environments. In outbreak response, where lives are on the line and situations change rapidly, psychological safety becomes essential.
 
+![Diverse hands joined together in a circle - representing inclusion, unity, and belonging in teams](images/inclusion-diverse-hands.jpg){fig-alt="A circle of diverse hands coming together, representing different people united in common purpose, symbolizing inclusion, belonging, and the power of diverse teams working together"}
+
 ## The Three-Level Framework
 
 ### Level 1: Diversity is a Fact
