@@ -1,0 +1,540 @@
+# Person-Centered Leading
+
+## Introduction
+
+In the previous sessions, we've explored foundational concepts for outbreak response leadership:
+- **Session 1**: What leadership means to each of us personally
+- **Session 2**: The difference between technical problems and adaptive challenges
+- **Session 3**: How to create psychological safety, inclusion, and belonging on teams
+
+Now we shift our focus to a fundamental truth: **Leadership happens through people**.
+
+In this session, we explore person-centered leading—an approach that recognizes that effective leadership requires understanding the people you lead, the people you work with, and most importantly, yourself.
+
+## The Theory Behind Person-Centered Leading
+
+At the heart of person-centered leadership is a simple but profound recognition:
+
+**It is persons who act.**
+
+Not organizations. Not systems. Not processes. Persons.
+
+Each person brings unique traits—ways of thinking, communicating, deciding, and influencing. These traits shape how they respond to situations, how they work with others, and how they lead. People work as actors in the outbreak response drama, each bringing their particular strengths, preferences, and patterns to their role.
+
+**Understanding these traits—both in yourself and in others—is not optional for effective leadership. It's essential.**
+
+When you understand:
+- **Your own traits**: You can leverage your strengths, manage your blind spots, and lead more authentically
+- **Others' traits**: You can communicate more effectively, build stronger teams, and adapt your approach to bring out the best in each person
+- **How traits interact**: You can create complementary teams, prevent predictable conflicts, and orchestrate diverse talents toward shared goals
+
+Person-centered leading recognizes that **influencing these traits—helping people develop, adapt, and grow—is a core leadership responsibility.**
+
+In outbreak response, where you work with diverse teams under pressure, this understanding becomes critical. The epidemiologist, the clinician, the community leader, and the logistics coordinator all bring different traits. Your effectiveness as a leader depends on your ability to understand these differences and work with them, not against them.
+
+::: {.callout-tip}
+## What You Should Do
+
+**Understand Yourself**
+- Identify your natural traits, preferences, and patterns
+- Recognize your strengths and potential blind spots
+- Know how you typically respond under stress
+
+**Work on Yourself**
+- Develop flexibility in your approaches
+- Strengthen areas where you're less naturally skilled
+- Build self-awareness through reflection and feedback
+
+**Understand Others**
+- Learn to recognize different traits in team members
+- Appreciate that different is not deficient
+- See diversity of traits as a team strength
+
+**Use Methods to Do That**
+- Apply frameworks and tools that reveal traits
+- Practice observing patterns in yourself and others
+- Seek structured ways to understand differences
+:::
+
+## Part 1: Influence Style Indicators
+
+One powerful framework for understanding person-centered leadership is the **Influence Style Indicator** (ISI), developed by Discovery Learning International.
+
+### What Are Influence Style Indicators?
+
+The Influence Style Indicator is a framework that helps you understand **how you naturally try to influence others**—and how others try to influence you.
+
+Influence is at the heart of leadership. In outbreak response, you're constantly influencing:
+- Team members to adopt new protocols
+- Partners to coordinate their efforts
+- Communities to trust public health guidance
+- Decision-makers to allocate resources
+
+But here's the key insight: **People influence in fundamentally different ways.**
+
+The ISI identifies these different influence styles, helping you:
+1. Understand your natural influence approach
+2. Recognize when your style is effective (and when it's not)
+3. Adapt your approach to different people and situations
+4. Build teams with complementary influence strengths
+
+### The Four Influence Styles
+
+The ISI identifies four primary styles of influence. Each style has distinct characteristics, strengths, and potential limitations.
+
+#### 1. Rationalizing
+
+**Core approach**: Influencing through logic, data, and reason
+
+**How it sounds**:
+- "Let me walk you through the data..."
+- "The evidence shows that..."
+- "Logically, if we do X, then Y will result..."
+- "Here are the facts we need to consider..."
+
+**Strengths in outbreak response**:
+- Excellent for technical decision-making
+- Builds credibility through evidence
+- Appeals to scientifically-minded team members
+- Effective in situations requiring objective analysis
+
+**Potential limitations**:
+- May underestimate the role of emotions and values
+- Can seem cold or disconnected in crisis situations
+- May lose influence when data is incomplete or ambiguous
+- Might miss the "human factor" in adoption of recommendations
+
+**When it's most effective**:
+- Making evidence-based protocol decisions
+- Presenting to technical audiences
+- Justifying resource allocation
+- Explaining epidemiological trends
+
+**Watch out for**:
+- Over-relying on data when communities need emotional connection
+- Analysis paralysis when quick decisions are needed
+- Dismissing concerns that can't be quantified
+
+#### 2. Asserting
+
+**Core approach**: Influencing through confidence, decisiveness, and clear direction
+
+**How it sounds**:
+- "Here's what we need to do..."
+- "The decision is made; let's execute..."
+- "I need this done by tomorrow..."
+- "This is the priority right now..."
+
+**Strengths in outbreak response**:
+- Provides clarity in chaos
+- Enables rapid decision-making
+- Inspires confidence through decisiveness
+- Cuts through ambiguity and delay
+
+**Potential limitations**:
+- May shut down input from others
+- Can damage psychological safety if overused
+- Might miss important information that others have
+- Risk of making wrong decisions quickly
+
+**When it's most effective**:
+- Emergency situations requiring immediate action
+- When team needs clear direction
+- Breaking through indecision or conflict
+- Establishing non-negotiable priorities
+
+**Watch out for**:
+- Using assertion when the situation actually requires collaboration
+- Steamrolling over adaptive challenges that need collective work
+- Damaging relationships by being too directive
+- Missing the wisdom in the room by deciding too quickly
+
+#### 3. Negotiating
+
+**Core approach**: Influencing through finding common ground, compromise, and mutual benefit
+
+**How it sounds**:
+- "What if we tried this approach..."
+- "How can we find a solution that works for everyone?"
+- "Let's explore the trade-offs..."
+- "I'll support your priority if you'll support mine..."
+
+**Strengths in outbreak response**:
+- Builds buy-in across diverse stakeholders
+- Finds workable solutions in complex political environments
+- Maintains relationships while moving forward
+- Balances competing interests
+
+**Potential limitations**:
+- Can be slow when speed is essential
+- Might compromise on issues that shouldn't be compromised
+- Risk of "splitting the difference" when one approach is clearly better
+- May be seen as lacking conviction
+
+**When it's most effective**:
+- Multi-stakeholder coordination
+- Resource allocation across competing needs
+- Building partnerships across organizations
+- Navigating political dynamics
+
+**Watch out for**:
+- Negotiating when you should be asserting (e.g., safety protocols)
+- Compromise that dilutes effectiveness
+- Endless discussions when decisions need to be made
+- Appearing unprincipled if you compromise too much
+
+#### 4. Inspiring
+
+**Core approach**: Influencing through vision, values, and emotional connection
+
+**How it sounds**:
+- "Imagine what we could achieve if..."
+- "This matters because..."
+- "Think about the families we'll protect..."
+- "We're part of something larger than ourselves..."
+
+**Strengths in outbreak response**:
+- Motivates teams during difficult, sustained efforts
+- Connects technical work to meaningful purpose
+- Builds commitment beyond compliance
+- Appeals to values and identity
+
+**Potential limitations**:
+- May seem impractical or overly idealistic
+- Can lose credibility if not backed by action
+- Might not resonate with very analytical team members
+- Risk of manipulation if not authentic
+
+**When it's most effective**:
+- Building team morale during long responses
+- Connecting with communities about behavior change
+- Recruiting volunteers or partners
+- Sustaining effort when people are exhausted
+
+**Watch out for**:
+- Inspiring words without concrete action
+- Using emotional appeal to avoid hard decisions
+- Losing credibility with repeated inspirational speeches
+- Neglecting the practical details that make vision real
+
+### Understanding Your Influence Profile
+
+Most people have a **primary influence style**—the approach they use most naturally, especially under pressure. But effective leaders can access multiple styles depending on the situation.
+
+::: {.callout-note}
+## Influence Style Flexibility
+
+The goal isn't to change your natural style. It's to:
+1. **Understand your default approach** and when it serves you well
+2. **Recognize when your style isn't working** in a given situation
+3. **Develop flexibility** to draw on other styles when needed
+4. **Build teams** with complementary influence styles
+:::
+
+### Influence Styles in Action: An Outbreak Response Scenario
+
+**Situation**: Your team needs to convince a community to accept a vaccination campaign after previous public health interventions were perceived as disrespectful.
+
+**How each style might approach it**:
+
+**Rationalizing**:
+"Let me show you the data on disease burden and vaccine efficacy. The numbers clearly demonstrate that vaccination will reduce cases by 70-80%. Here's the epidemiological model..."
+
+*Risk*: Community doesn't trust the data or doesn't want to hear statistics—they want to know they'll be respected.
+
+**Asserting**:
+"We're implementing the vaccination campaign starting Monday. Here's the schedule. Everyone needs to be vaccinated to stop the outbreak."
+
+*Risk*: Community feels imposed upon again, resistance increases, trust decreases further.
+
+**Negotiating**:
+"We understand there were issues with previous programs. What would make this campaign work better for the community? What concerns do you have? How can we address them while still achieving our public health goals?"
+
+*Strength*: Creates space for community input, finds workable compromises.
+*Risk*: Might take longer than the outbreak timeline allows.
+
+**Inspiring**:
+"This is about protecting the children in your community—your neighbors' children, your own children. Together, we can create a healthy future for this community. We respect your leadership and want to partner with you in this important work."
+
+*Strength*: Connects to values, builds motivation, shows respect.
+*Risk*: Might not address specific practical concerns or past grievances.
+
+**Most effective approach**? Probably a combination:
+- **Inspiring**: Connect to shared values and show respect
+- **Negotiating**: Address specific community concerns and design the campaign together
+- **Rationalizing**: Provide clear information when requested
+- **Asserting**: Be clear about timeline constraints and non-negotiables (e.g., cold chain requirements)
+
+### Recognizing Influence Styles in Others
+
+Understanding influence styles isn't just about yourself—it's about recognizing how others operate.
+
+**Listen for clues**:
+
+When a team member says:
+- "Show me the data" → Likely values rationalizing
+- "What's the bottom line?" → May appreciate asserting
+- "How can we all win here?" → Probably comfortable with negotiating
+- "Why does this matter?" → May be moved by inspiring
+
+**Adapt your approach**:
+
+If you're trying to influence someone who values **rationalizing**:
+- Lead with evidence and logic
+- Provide data to support your position
+- Explain cause-and-effect relationships
+- Be prepared to answer analytical questions
+
+If you're trying to influence someone who values **asserting**:
+- Be direct and clear
+- State your position confidently
+- Focus on the decision and action needed
+- Respect their time by being concise
+
+If you're trying to influence someone who values **negotiating**:
+- Acknowledge different perspectives
+- Show willingness to find common ground
+- Explore options together
+- Demonstrate you're listening to their concerns
+
+If you're trying to influence someone who values **inspiring**:
+- Connect to purpose and values
+- Paint a vision of the desired outcome
+- Show how this aligns with their ideals
+- Appeal to the meaningful impact
+
+### Building Complementary Teams
+
+Different outbreak response situations require different influence styles. The most effective teams have members who can draw on all four styles.
+
+**Example team composition**:
+
+- **Incident Commander** with strong asserting: Provides clear direction
+- **Epidemiologist** with strong rationalizing: Grounds decisions in data
+- **Community Liaison** with strong inspiring: Builds trust and motivation
+- **Operations Coordinator** with strong negotiating: Balances competing resource needs
+
+When you build teams, think about:
+- What influence styles are naturally present?
+- What styles might be missing?
+- How can team members complement each other?
+- Who might need to stretch into less comfortable styles?
+
+### Practical Applications for Outbreak Response Leaders
+
+#### 1. Self-Awareness Practice
+
+Over the next week, notice:
+- Which influence style do you use most naturally?
+- When does your style work well?
+- When do you get frustrated? (Often indicates your style isn't working)
+- What style do you avoid or underuse?
+
+#### 2. Situational Analysis
+
+Before important influence moments, ask:
+- What does this situation require? (Quick decision? Building consensus? Motivating action?)
+- What influence style would be most effective?
+- Is that my natural style, or do I need to adapt?
+
+#### 3. Team Observations
+
+Look at your outbreak response team:
+- What influence styles dominate?
+- What styles are underrepresented?
+- Are there conflicts that might be style clashes?
+- How can you leverage style diversity?
+
+#### 4. Communication Adaptations
+
+For each key stakeholder, consider:
+- What influence style do they seem to value?
+- How can I adapt my communication to resonate with them?
+- What would make my message more compelling to their style?
+
+### Common Pitfalls and How to Avoid Them
+
+#### Pitfall 1: Overusing Your Dominant Style
+
+**Problem**: You default to your comfortable style even when it's not working.
+
+**Solution**: Notice when you're not getting through. Ask yourself: "What other influence approach might work here?"
+
+#### Pitfall 2: Judging Other Styles as Wrong
+
+**Problem**: You see your style as "right" and others' as ineffective or annoying.
+
+**Solution**: Recognize that all styles have value in different situations. Different ≠ deficient.
+
+#### Pitfall 3: Faking a Style Inauthentically
+
+**Problem**: You try to use a non-natural style but come across as insincere.
+
+**Solution**: Adapt while staying authentic. You don't have to abandon your natural style—just flex toward others when needed.
+
+#### Pitfall 4: Ignoring Style Mismatches
+
+**Problem**: Team conflicts arise from style differences but are treated as personality clashes.
+
+**Solution**: Name the style difference. "I think we're approaching this differently—I'm focused on the data, and you're focused on how we'll get buy-in. We need both."
+
+## Reflective Exercise: Understanding Your Influence Style
+
+::: {.callout-note}
+## Reflection Questions
+
+**Identifying Your Natural Style**:
+
+1. Think of a recent situation where you successfully influenced someone. What approach did you use?
+   - Did you use data and logic? (Rationalizing)
+   - Did you provide clear direction? (Asserting)
+   - Did you find common ground? (Negotiating)
+   - Did you appeal to values or vision? (Inspiring)
+
+2. When you're under pressure or stressed, which influence style do you default to?
+
+3. Which style feels most comfortable and natural to you? Which feels most awkward or difficult?
+
+**Understanding Your Effectiveness**:
+
+4. Think of a time when your influence attempt failed. Looking back:
+   - What style were you using?
+   - What style might have been more effective?
+   - What was the mismatch between your approach and what the situation required?
+
+5. What influence style do you tend to overuse? What style do you underuse?
+
+**Developing Flexibility**:
+
+6. What influence style would stretch you the most to develop?
+
+7. Think of an upcoming influence challenge. What style does this situation require? Is that natural for you, or will you need to adapt?
+:::
+
+## Case Study: Influence Styles in a Response Team
+
+**Scenario**: A measles outbreak response team is struggling with coordination.
+
+**The Team**:
+
+- **Dr. Sarah** (Epidemiologist, strong rationalizing): Wants every decision backed by data and models. Frustrated when team makes "emotional" decisions.
+
+- **Marcus** (Incident Commander, strong asserting): Wants quick decisions and clear action. Impatient with long discussions.
+
+- **Amira** (Community Liaison, strong inspiring): Focuses on building trust and connecting to community values. Concerned that team is too focused on logistics and not enough on relationships.
+
+- **Jordan** (Logistics Coordinator, strong negotiating): Tries to find compromises between competing demands. Frustrated when others won't budge.
+
+**The Conflict**:
+
+The team is debating vaccination strategy:
+- **Sarah** wants to target high-risk age groups based on epidemiological data
+- **Marcus** wants to start vaccinating immediately in the most affected neighborhood
+- **Amira** wants to start with community leaders to build trust
+- **Jordan** wants to split vaccines across all approaches
+
+**The Problem**: Each person is using their natural influence style, talking past each other.
+
+- Sarah presents more data (rationalizing)
+- Marcus gets more directive (asserting)
+- Amira makes more emotional appeals (inspiring)
+- Jordan proposes more compromises (negotiating)
+
+**The Breakthrough**: The team facilitator names what's happening:
+
+"We're all trying to influence each other, but we're using different approaches. Sarah, you're appealing to data. Marcus, you're providing clear direction. Amira, you're connecting to values. Jordan, you're finding middle ground. All of these perspectives have merit. What if we stepped back and asked: What does THIS specific situation require? When do we need data? When do we need decisiveness? When do we need community trust? When do we need balance?"
+
+**The Resolution**:
+
+The team realizes they need a sequenced approach:
+1. **Rationalizing first**: Review the epidemiological data to understand risk
+2. **Inspiring second**: Engage with community leaders to understand values and build trust
+3. **Negotiating third**: Design an approach that balances data and community input
+4. **Asserting fourth**: Make a clear decision and execute
+
+Each influence style has its moment. The team's diversity becomes a strength when they understand how to use it.
+
+## Connection to Previous Sessions
+
+Person-centered leading builds directly on previous sessions:
+
+**Session 1: What Does Leadership Mean to Us?**
+- Different people define leadership differently partly because of their traits and influence styles
+- A rationalizing person might define leadership as "making evidence-based decisions"
+- An inspiring person might define it as "motivating people toward a vision"
+- Understanding influence styles helps explain this diversity
+
+**Session 2: Adaptive Challenges vs. Technical Problems**
+- Technical problems can often be solved with rationalizing (data-driven solutions)
+- Adaptive challenges often require inspiring (helping people change) and negotiating (finding new agreements)
+- Knowing which influence style fits which type of challenge is powerful
+
+**Session 3: Psychological Safety and Inclusion**
+- Different influence styles contribute to psychological safety in different ways
+- Rationalizing: Makes it safe to question assumptions and demand evidence
+- Negotiating: Makes it safe to voice concerns and find common ground
+- Inspiring: Makes it safe to connect emotionally and share values
+- Asserting: Makes it safe to make decisions and move forward (when used wisely)
+- Inclusion means valuing all influence styles, not just the dominant ones
+
+## Looking Ahead
+
+This session introduced the first framework for understanding persons in leadership: Influence Style Indicators.
+
+**Future sections in person-centered leading will explore**:
+- Other trait frameworks that help you understand yourself and others
+- How to have developmental conversations that help people grow
+- How to adapt your leadership to different personality types
+- How to build self-awareness as an ongoing leadership practice
+
+Person-centered leading is a deep topic. We've only begun. But understanding influence styles gives you a practical starting point for bringing this approach to your outbreak response leadership.
+
+## Action Items
+
+Before the next session:
+
+1. **Identify your primary influence style**:
+   - Which of the four styles feels most natural to you?
+   - Ask a trusted colleague: "When I'm trying to influence you, what approach do I typically use?"
+
+2. **Observe influence styles in action**:
+   - In your next three meetings, notice what influence styles people are using
+   - Notice when influence attempts succeed or fail—was it a style match or mismatch?
+
+3. **Practice adapting your style**:
+   - Choose one situation this week where your natural style might not be most effective
+   - Consciously try a different influence approach
+   - Reflect: What happened? What did you learn?
+
+4. **Analyze an influence challenge**:
+   - Think of someone you need to influence but haven't been successful with
+   - What influence style have you been using?
+   - What style might they value more?
+   - How could you adapt your approach?
+
+5. **Consider your team's influence diversity**:
+   - What influence styles are represented on your team?
+   - What styles might be missing?
+   - How could you leverage the diversity that exists?
+
+---
+
+::: {.callout-tip}
+## Remember
+
+Leadership happens through persons—each with unique traits and influence styles. Understanding these patterns in yourself and others isn't about putting people in boxes. It's about recognizing the beautiful diversity of how people think, communicate, and lead—and learning to work with that diversity rather than against it.
+
+Your effectiveness as a leader grows when you develop the flexibility to influence in multiple ways, depending on what the person and situation require.
+:::
+
+## Further Reading
+
+To explore influence styles and person-centered leadership more deeply:
+
+**On Influence Styles**:
+- Discovery Learning International. *Influence Style Indicator* assessment and resources
+- Cialdini, R. (2006). *Influence: The Psychology of Persuasion*
+
+**On Understanding Persons in Leadership**:
+- Goleman, D. (1995). *Emotional Intelligence*
+- Buckingham, M., & Clifton, D. (2001). *Now, Discover Your Strengths*
