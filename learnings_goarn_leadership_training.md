@@ -101,3 +101,10 @@ Module 3 - What if we approached leadership as an adaptive challenge
     - independent
     - we asses values
   
+
+
+# Experiments
+- Spell out problems via e-mail *without* solutions
+- Go into conflict with some members of my team
+- Talk less in the meeting of the unit
+- Do meetings where we say what we accomplished and then next week what kind of problems we have
